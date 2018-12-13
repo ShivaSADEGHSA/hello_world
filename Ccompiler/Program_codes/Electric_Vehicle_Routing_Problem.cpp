@@ -31,7 +31,7 @@ int main()
     int id_input=0;
     
     ifstream inputfile;
-    inputfile.open ("//Users//shiva//Documents//Cxcode//Ccompiler//Ccompiler//Input_files//Input.txt");
+    //inputfile.open ("//Users//shiva//Documents//Cxcode//Ccompiler//Ccompiler//Input_files//Input.txt");
     if (inputfile.fail())
     {
         cout << "Input file is not work"<< endl;
